@@ -1,1 +1,1 @@
-# GradeMate-Predictive-Analytics-for-Smarter-Studying
+# GradeMate: Predictive Student Performance
