@@ -2,6 +2,8 @@
 
 ![Banner Image](https://github.com/Qamar247/GradeMate-Predictive-Student-Performance/blob/main/GradeMate%20banner.jpg)
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qamar247/GradeMate-Predictive-Student-Performance/blob/main/GradeMate_Predictive_Student_Performance.ipynb)
+
 ## About
 
 This project, GradeMate, predicts student performance based on study habits for ExcelEdge Institute.
